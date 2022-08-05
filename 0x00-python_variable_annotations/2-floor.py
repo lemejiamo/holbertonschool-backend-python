@@ -8,4 +8,4 @@ def floor(n: float) -> int:
     """
     type-annotated function floor
     """
-    return n
+    return int(n)
