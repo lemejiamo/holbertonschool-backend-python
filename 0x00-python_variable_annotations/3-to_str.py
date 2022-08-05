@@ -9,4 +9,3 @@ def to_str(arg: float) -> str:
     takes a float n as argument and returns the string
     """
     return str(arg)
-
