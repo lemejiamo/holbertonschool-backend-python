@@ -5,10 +5,6 @@ Description: The coroutine will collect 10 random numbers
  then return the 10 random numbers.
 """
 
-# from typing import Generator
-import asyncio
-
-
 async_generator = __import__('0-async_generator').async_generator
 
 
