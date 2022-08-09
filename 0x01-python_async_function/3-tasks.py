@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' Description: function task_wait_random  takes an integer max_delay and 
+''' Description: function task_wait_random  takes an integer max_delay and
     returns a asyncio.Task.
 '''
 
