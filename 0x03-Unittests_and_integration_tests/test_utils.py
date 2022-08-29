@@ -75,3 +75,5 @@ class TestMemoize(unittest.TestCase):
             self.assertEqual(test_class.a_property, mock_object.return_val)
             self.assertEqual(test_class.a_property, mock_object.return_val)
             mock_object.assert_called_once()
+
+        unittest.__doc__
